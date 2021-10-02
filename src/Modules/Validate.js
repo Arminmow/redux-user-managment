@@ -86,4 +86,4 @@ function validate (preStare ,inputName , inputValue ){
     }
 }
 
-module.exports = validate;
+export default validate;
