@@ -30,7 +30,7 @@ function Login() {
 
     return (
         <div className="wrapper">
-            <p style={{color:"white" , marginTop:"15px"}}>Admin login info:<br/>Email: arminmow@gmail.com<br/>Password: admin12345<br/>Use this to login as admin</p>
+            <p style={{color:"white" , marginTop:"15px"}}>Bitch Admin login info:<br/>Email: arminmow@gmail.com<br/>Password: admin12345<br/>Use this to login as admin</p>
             {userData.isLogged && <Redirect to="/profile"/>}
             <div className="form-wrapper">
                 <h1 className="registerHeader">Login</h1>

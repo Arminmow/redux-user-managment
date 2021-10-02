@@ -59,7 +59,7 @@ export function FetchUser(email, password) {
             })
             .catch(err => {
                 const errorMsg = err.message;
-                console.log(err)
+                console.log(window.location.hostname)
                 dispatch(FetchUsersFail(errorMsg));
             })
 
