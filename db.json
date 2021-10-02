@@ -1,0 +1,47 @@
+{
+  "users": [
+    {
+      "firstName": "Armin ",
+      "lastName": "Moradi",
+      "email": "arminmow@gmail.com",
+      "password": "admin12345",
+      "phone": "09105928917",
+      "address": "Iran , Tehran , Poonak",
+      "job": "Front end developer",
+      "website": "google.com",
+      "github": "github.com/Arminmow",
+      "twitter": "",
+      "instagram": "arminmow",
+      "facebook": "",
+      "id": 1,
+      "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--PUae5oAC--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/198912/2c2773c5-9dd0-420a-8668-99cd0e66e153.jpg",
+      "isAdmin": true
+    },
+    {
+      "firstName": "Masoud",
+      "lastName": "Mordi",
+      "email": "moradi@yahoo.com",
+      "password": "12345678",
+      "phone": "54558555",
+      "address": "jg kjh kjhk ui ih h k h hkuk iu ihuy iu8iu",
+      "isAdmin": false,
+      "id": 5,
+      "img": "https://res.cloudinary.com/practicaldev/image/fetch/s--PUae5oAC--/c_fill,f_auto,fl_progressive,h_320,q_auto,w_320/https://dev-to-uploads.s3.amazonaws.com/uploads/user/profile_image/198912/2c2773c5-9dd0-420a-8668-99cd0e66e153.jpg",
+      "job": "Professor",
+      "website": "www.madoud.ir",
+      "github": "masoud.ir",
+      "instagram": "masoud.moradi",
+      "facebook": "masoud.moradi.facebook"
+    },
+    {
+      "firstName": "helia",
+      "lastName": "khare",
+      "email": "heli@gmail.com",
+      "password": "heli12345",
+      "phone": "",
+      "address": "",
+      "isAdmin": false,
+      "id": 6
+    }
+  ]
+}
